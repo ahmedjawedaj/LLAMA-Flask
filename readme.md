@@ -40,12 +40,24 @@ Welcome to LLaMA Text Generation API! This API is implemented in Python using Fl
      source venv/bin/activate
      ```
    
-### Installing Requirements
+## Setup
 
-Ensure the virtual environment is activated, then install the requirements:
+Clone the repo
+
+```bash
+git clone https://github.com/Lightning-AI/lit-llama
+cd lit-llama
+```
+
+install dependencies
+
 ```bash
 pip install -r requirements.txt
 ```
+
+You are all set! 🎉
+
+&nbsp;
 
 ### Choosing a GPU
 
